@@ -1,0 +1,1 @@
+# AMIS7_TABLE_CRUD
